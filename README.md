@@ -22,6 +22,14 @@
 
 ---
 
+## 🎮 New in 2.2.2: Touch Controls and Difficulty
+
+- **Modern touch controls.** Dark glass sticks and buttons with a charge arc and a glow when ready.
+- **Smoother difficulty.** 10 hidden levels from easy to hard, rising with your trophies.
+- **Lobby first.** New pilots start in the lobby with the tour.
+
+---
+
 ## 🔗 New in 2.2.1: Progress Sync Fix
 
 - **Purchases stay bought.** Progress now merges across PC, Android and browser instead of one device overwriting another. Update every device: an older copy can still overwrite your progress.
