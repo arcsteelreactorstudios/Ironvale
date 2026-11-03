@@ -22,6 +22,15 @@
 
 ---
 
+## 🌲 New in 2.3: Wildlands
+
+- **Wildlands.** A 20-pilot Showdown in a 3D world seen from behind your mech: towns, forests, lakes and mountains. Jump over cover, sneak up through the trees. Download the map in game (PC and Android).
+- **Free mechs for playing.** 15 minutes unlocks Gatling, 30 minutes unlocks Cantor Prime.
+- **Bigger random maps** with breakable cover, a **party lobby** for up to 10 pilots with emotes, **voice lines** for every mech, and **LOW / DEFAULT / HIGH** graphics.
+- **No minimap**, so sneak attacks work.
+
+---
+
 ## 🎮 New in 2.2.2: Touch Controls and Difficulty
 
 - **Modern touch controls.** Dark glass sticks and buttons with a charge arc and a glow when ready.
