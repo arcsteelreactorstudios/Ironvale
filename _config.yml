@@ -27,4 +27,4 @@ defaults:
       sitemap: false
 
 # Every "Play" button opens the game on CrazyGames.
-play_url: https://www.crazygames.com/game/ironvale
+play_url: https://ironvale.gmicrosystem.com/play/
