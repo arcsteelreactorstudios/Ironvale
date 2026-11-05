@@ -22,6 +22,18 @@
 
 ---
 
+## 🧱 New in 2.4: The Creator Update
+
+- **Map Creator.** Build your own arena inside the real arena. Pick a block from the bar (wall, crate, pillar, low barrier, bush or eraser), then click or drag to place it. Every block is mirrored for the other side, blue rings keep spawns and pickups clear, and maps that seal an area off are refused, so every map is fair. Save up to 30 maps, then **PLAY IT** against bots, in practice or in a private room.
+- **Share links.** One button copies a link to your map that opens in the browser or the app. Hosts can share a room link that joins straight in.
+- **Practice.** Any mode, any mech, everyone at full level. Set how many pilots, which slots are bots (and their mechs) and which are open for friends. Nothing is won or lost.
+- **Always up to date.** From 2.4 on, an old copy shows a big **DOWNLOAD NEW VERSION** screen as soon as an update is out.
+- **Also new:** basic training for new pilots, lakes you can wade through in Wildlands, enterable buildings, power cube chests, new Blender-made models, better graphics and fewer stutters.
+
+<p align="center"><img src="media/map_creator.jpg" alt="The map creator inside the arena" width="49%"> <img src="media/custom_map_match.jpg" alt="A Squad Clash on a player-made map" width="49%"><br><sub>Build it, then fight on it. 2.3 copies can't join 2.4 matches: update with <b>UPDATE NOW</b> or grab 2.4 from <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest">Releases</a>.</sub></p>
+
+---
+
 ## 🌲 New in 2.3: Wildlands
 
 - **Wildlands.** A 20-pilot Showdown in a 3D world seen from behind your mech, in three worlds: green Wildlands, desert Dune Sea and snowy Frostpeak. Bail out of a dropship, steer down with your jetpack, jump over cover and sneak up through the trees. Download the worlds in game (PC and Android).
@@ -248,6 +260,8 @@ Already playing? The game tells you when an update is out — press **UPDATE NOW
 | Heavy weapon | Right click | Heavy button |
 | Dash | Space | Dash button |
 | Super | Q | Super button |
+| Jump (Wildlands) | Space | Jump button |
+| Map creator: place / erase | Left / right click | Tap / eraser |
 
 ## 🗺️ Roadmap
 
