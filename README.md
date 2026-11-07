@@ -22,6 +22,15 @@
 
 ---
 
+## 🔩 New in 2.4.1: All 43 Mechs Rebuilt
+
+- **New models for every mech.** All 42 mechs and Holoforge were rebuilt in Blender with bolts, rivets, gears, hoses, vents, hazard stripes and a face screen. Holoforge is now a six-rotor drone.
+- **Real metal.** Steel parts shine and reflect like metal on PC and most phones (every graphics setting except LOW; the browser version keeps the 2.4 look).
+- **Better firing.** Arms kick back on every shot, barrels slide back, missile pods jolt, and missiles launch out of their own tubes with smoke.
+- **More damage.** Every mech hits about 35% harder, so fights end sooner.
+
+<p align="center"><img src="media/mechs_2_4_1.jpg" alt="The rebuilt mech roster" width="49%"> <img src="media/bastion_2_4_1.jpg" alt="The new Bastion in the menu" width="49%"><br><sub>2.4.0 copies can't join 2.4.1 matches: update with <b>UPDATE NOW</b> or grab 2.4.1 from <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest">Releases</a>.</sub></p>
+
 ## 🧱 New in 2.4: The Creator Update
 
 - **Map Creator.** Build your own arena inside the real arena. Pick a block from the bar (wall, crate, pillar, low barrier, bush or eraser), then click or drag to place it. Every block is mirrored for the other side, blue rings keep spawns and pickups clear, and maps that seal an area off are refused, so every map is fair. Save up to 30 maps, then **PLAY IT** against bots, in practice or in a private room.
