@@ -11,6 +11,7 @@
   <a href="https://www.youtube.com/@ArcsteelReactorStudios"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Arcsteel Reactor Studios on YouTube"></a>
   <a href="https://www.tiktok.com/@arcsteelreactorstudios"><img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Arcsteel Reactor Studios on TikTok"></a>
   <a href="https://www.instagram.com/arcsteelreactorstudios"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Arcsteel Reactor Studios on Instagram"></a>
+  <a href="https://www.facebook.com/profile.php?id=61596090762694"><img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Ironvale on Facebook"></a>
   <a href="https://ironvale.fandom.com"><img src="https://img.shields.io/badge/Fandom-Ironvale_Wiki-FA005A?style=for-the-badge&logo=fandom&logoColor=white" alt="Ironvale Wiki on Fandom"></a>
 </p>
 
@@ -271,6 +272,7 @@ The Titan Circuit is an industrial ring world at war. The Ironvale Compact fight
 | **YouTube** | [Arcsteel Reactor Studios](https://www.youtube.com/@ArcsteelReactorStudios) — trailers, mech showcases and Shorts. |
 | **TikTok** | [@arcsteelreactorstudios](https://www.tiktok.com/@arcsteelreactorstudios) — mech clips and Shorts. |
 | **Instagram** | [@arcsteelreactorstudios](https://www.instagram.com/arcsteelreactorstudios) — Reels and new mech reveals. |
+| **Facebook** | [Ironvale](https://www.facebook.com/profile.php?id=61596090762694) — Reels, screenshots and news. |
 | **Wiki** | [Ironvale Wiki on Fandom](https://ironvale.fandom.com) — every mech, its kit and its stats. |
 
 Already playing? The game tells you when an update is out — press **UPDATE NOW**.
