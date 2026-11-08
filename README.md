@@ -23,6 +23,15 @@
 
 ---
 
+## 🧬 New in 2.5: Evolution
+
+- **Mechs evolve.** Buying gears is gone: every mech has four forms, V1 to V4, each stronger and each visible on the mech (a ring, orbiting shards, a crown). A gear you already bought counts as V2.
+- **Evolution Trials.** At max power, fight four islands of echoes of your own mech, then its boss. Win, and it evolves.
+- **Trials with friends.** Host a party and take a trial together, up to four pilots. Every extra pilot adds echoes and makes the trial tougher.
+- **Better basic training.** The training bot starts close by, and a red arrow always points to it.
+
+<sub>2.4 copies can't join 2.5 matches: update with <b>UPDATE NOW</b> or grab 2.5 from <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest">Releases</a>.</sub>
+
 ## 🔩 New in 2.4.1: All 43 Mechs Rebuilt
 
 - **New models for every mech.** All 42 mechs and Holoforge were rebuilt in Blender with bolts, rivets, gears, hoses, vents, hazard stripes and a face screen. Holoforge is now a six-rotor drone.
