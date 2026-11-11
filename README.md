@@ -26,14 +26,21 @@
 
 ---
 
-## 🧬 New in 2.5: Evolution
+## 🛠️ New in 2.6: Design Your Own Mech
+
+- **Mech Designer.** Own every mech and build your own: any body, attack, heavy, dash and super, with your own name. Upgrade it, evolve it and take it online.
+- **Main attacks hit 60% harder** and now use ammo that refills one round at a time, so aim matters more than holding the trigger.
+- **Skill-based matchmaking**, **perks for upgrading** (power 3, 5, 7 and 9) and **easier Evolution Trial bosses**.
+
+<sub>2.5 copies can't join 2.6 matches: update with <b>UPDATE NOW</b> or grab 2.6 from <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest">Releases</a>.</sub>
+
+## 🧬 2.5: Evolution
 
 - **Mechs evolve.** Buying gears is gone: every mech has four forms, V1 to V4, each stronger and each visible on the mech (a ring, orbiting shards, a crown). A gear you already bought counts as V2.
 - **Evolution Trials.** At max power, fight four islands of echoes of your own mech, then its boss. Win, and it evolves.
 - **Trials with friends.** Host a party and take a trial together, up to four pilots. Every extra pilot adds echoes and makes the trial tougher.
 - **Better basic training.** The training bot starts close by, and a red arrow always points to it.
 
-<sub>2.4 copies can't join 2.5 matches: update with <b>UPDATE NOW</b> or grab 2.5 from <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest">Releases</a>.</sub>
 
 ## 🔩 New in 2.4.1: All 43 Mechs Rebuilt
 
