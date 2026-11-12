@@ -26,7 +26,16 @@
 
 ---
 
-## 🛠️ New in 2.6: Design Your Own Mech
+## ⚡ New in 2.6.1: Faster Fights
+
+- **The whole game is faster.** Mechs move, turn and stop quicker, shots fly faster, dashes recharge sooner and you respawn in about 5 seconds.
+- **Kills really are faster.** Main attacks refill quicker, so a test match that took about 143 seconds in 2.5 takes about 90.
+- **The elements are stronger.** Ignis, Terra, Maelstrom and Zephyr have 45% more hull and damage, take half damage from Aether and deal double to it.
+- **Two online bugs fixed** (shock wave supers, hits after a dash) and sharper shadows on PC.
+
+<sub>2.6.0 copies can't join 2.6.1 matches: update with <b>UPDATE NOW</b> or grab 2.6.1 from <a href="https://github.com/arcsteelreactorstudios/Ironvale/releases/latest">Releases</a>.</sub>
+
+## 🛠️ 2.6: Design Your Own Mech
 
 - **Mech Designer.** Own every mech and build your own: any body, attack, heavy, dash and super, with your own name. Upgrade it, evolve it and take it online.
 - **Main attacks hit 60% harder** and now use ammo that refills one round at a time, so aim matters more than holding the trigger.
