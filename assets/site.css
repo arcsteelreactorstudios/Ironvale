@@ -59,7 +59,7 @@ h3 { font-size: 1.2rem; }
   transition: background 0.2s ease, border-color 0.2s ease;
 }
 .nav.scrolled, .nav.open { background: rgba(11, 12, 16, 0.92); border-bottom-color: var(--line); }
-.nav-inner { max-width: 1480px; margin: 0 auto; height: 100%; padding: 0 24px; display: flex; align-items: center; gap: 24px; }
+.nav-inner { max-width: 1200px; margin: 0 auto; height: 100%; padding: 0 24px; display: flex; align-items: center; gap: 24px; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; font: 700 1.2rem var(--display); letter-spacing: 0.12em; }
 .brand img { border-radius: 8px; }
 .nav-links { display: flex; align-items: center; gap: 4px; margin-left: auto; }
@@ -255,3 +255,9 @@ kbd { display: inline-block; min-width: 26px; text-align: center; padding: 2px 7
 .hero-social a { font-weight: 700; text-decoration: none; }
 .hero-social a.discord { color: #8c95ff; } .hero-social a.youtube { color: #ff4d6a; } .hero-social a.fandom { color: #ff5c93; }
 .hero-social a:hover { text-decoration: underline; }
+
+/* Desktop top bar: social and GitHub links show icons only so every link fits; labels stay for screen readers. */
+@media (min-width: 1281px) {
+  .nav-links a.social, .nav-links a.nav-gh { padding: 8px; gap: 0; }
+  .nav-links a.social span, .nav-links a.nav-gh span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+}
