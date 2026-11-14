@@ -26,7 +26,17 @@
 
 ---
 
-## ⚡ New in 2.6.1: Faster Fights
+## 🛫 New in 2.7: Flight Protocol
+
+- **Mechs can fly.** PLAY > FLIGHT PROTOCOL: launch from a pad, fly through checkpoint rings, collect energy for boost, shoot drones and dodge hazards with your own mech.
+- **Four routes:** Cloudbreaker Route, Titan Canyon, Reactor Corridor and Orbital Ring.
+- **Air boss: the Sky Leviathan.** Chase it through the clouds, shoot out its engines, fly inside and destroy the core.
+- **Pilot ranks** from Bronze to Titan, three challenges per route, and six engine trail colours to unlock.
+- **New music:** "Ironvale Overdrive" in the menus, "Ironvale WAR" in fights.
+
+<sub>2.6.1 and 2.7 players can still play online together.</sub>
+
+## ⚡ 2.6.1: Faster Fights
 
 - **The whole game is faster.** Mechs move, turn and stop quicker, shots fly faster, dashes recharge sooner and you respawn in about 5 seconds.
 - **Kills really are faster.** Main attacks refill quicker, so a test match that took about 143 seconds in 2.5 takes about 90.
