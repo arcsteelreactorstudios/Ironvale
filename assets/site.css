@@ -59,7 +59,7 @@ h3 { font-size: 1.2rem; }
   transition: background 0.2s ease, border-color 0.2s ease;
 }
 .nav.scrolled, .nav.open { background: rgba(11, 12, 16, 0.92); border-bottom-color: var(--line); }
-.nav-inner { max-width: 1200px; margin: 0 auto; height: 100%; padding: 0 24px; display: flex; align-items: center; gap: 24px; }
+.nav-inner { max-width: 1480px; margin: 0 auto; height: 100%; padding: 0 24px; display: flex; align-items: center; gap: 24px; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; font: 700 1.2rem var(--display); letter-spacing: 0.12em; }
 .brand img { border-radius: 8px; }
 .nav-links { display: flex; align-items: center; gap: 4px; margin-left: auto; }
